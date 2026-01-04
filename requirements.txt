@@ -1,0 +1,28 @@
+# Base Python scientifique
+numpy
+pandas
+scipy
+
+# Traitement d'images
+opencv-python
+Pillow
+matplotlib
+
+# Machine Learning classique
+scikit-learn
+
+# Deep Learning
+tensorflow
+
+# Visualisation avancée
+seaborn
+
+# Notebooks
+jupyter
+ipykernel
+
+# Suivi & utilitaires
+tqdm
+
+# Optionnel (pour plus tard)
+streamlit

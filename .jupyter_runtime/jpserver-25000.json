@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 25000,
+  "port": 8889,
+  "root_dir": "C:\\Users\\user\\ocr-embeddings",
+  "secure": false,
+  "sock": "",
+  "token": "d5010454d95df3706c1f5cea5cd0a423262aaacf16d10e38",
+  "url": "http://localhost:8889/",
+  "version": "2.17.0"
+}
