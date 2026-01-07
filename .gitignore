@@ -1,0 +1,11 @@
+# env
+venv/
+.venv/
+
+# python
+__pycache__/
+*.pyc
+
+# outputs générés
+outputs/
+data/processed/
